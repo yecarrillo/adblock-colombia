@@ -1,0 +1,23 @@
+[Adblock Plus 1.1]
+!
+! yecarrillo's ad-blocking subscription for Colombian sites
+! Home:    http://code.google.com/p/adblock-colombia/
+! License: http://www.gnu.org/licenses/gpl.html
+! Contact: http://code.google.com/p/adblock-colombia/issues/list
+!
+/pauta/*
+#div(class*=publicidad)
+mercadolibre.com.co#div(id=oasTOP)
+elespectador.com#div(class*=pauta)
+elespectador.com#div(class*=patrocinio)
+eltiempo.com#div(class*=patrocinador)
+eltiempo.com#div(class*=Patrocinio)
+eltiempo.com#div(class*=Pauta)
+eluniversal.com.co#div(class*=banner_)
+latarde.com#div(id^=headerPub)
+! 
+! MALICIOUS:
+
+! 
+! WHITELISTS
+@@.gov.co/*banners/
