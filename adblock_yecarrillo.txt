@@ -1,0 +1,21 @@
+[Adblock Plus 1.1]
+!
+! yecarrillo's ad-blocking subscription
+! Home:    http://code.google.com/p/adblock-colombia/
+! License: http://www.gnu.org/licenses/gpl.html
+! Contact: http://code.google.com/p/adblock-colombia/issues/list
+!
+facebook.com#*(adcolumn)
+mail.google.com#*(yxEQwb)
+mail.google.com#*(qWFFaf)
+mail.google.com#div(class=nH mq)
+google.com,google.com.co#table(id=mbEnd)(width=30%)
+.newaffiliation.com
+.forex-affiliate.net
+.box.sk/torreador.jpg
+! 
+! MALICIOUS:
+
+! 
+! WHITELISTS
+
