@@ -13,6 +13,7 @@ elespectador.com#div(class*=patrocinio)
 eltiempo.com#div(class*=patrocinador)
 eltiempo.com#div(class*=Patrocinio)
 eltiempo.com#div(class*=Pauta)
+eltiempo.com#div(class*=relpauta)
 eluniversal.com.co#div(class*=banner_)
 latarde.com#div(id^=headerPub)
 ! 
