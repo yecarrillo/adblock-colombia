@@ -15,6 +15,7 @@ eltiempo.com#div(class*=Patrocinio)
 eltiempo.com#div(class*=Pauta)
 eluniversal.com.co#div(class*=banner_)
 latarde.com#div(id^=headerPub)
+mercadolibre.com.co#div(id^=adscolumn)
 ! 
 ! MALICIOUS:
 
