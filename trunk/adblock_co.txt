@@ -16,7 +16,7 @@ eltiempo.com#div(class*=Pauta)
 eluniversal.com.co#div(class*=banner_)
 latarde.com#div(id^=headerPub)
 wradio.com.co#div(class*=publi)
-wradio.com.co#div(class=redo)
+wradio.com.co##div[class=redo][style*="width: "]
 mercadolibre.com.co#div(id^=adscolumn)
 ! 
 ! MALICIOUS:
