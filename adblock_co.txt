@@ -1,9 +1,10 @@
 [Adblock Plus 1.1]
 !
-! yecarrillo's ad-blocking subscription for Colombian sites
+! Title:   yecarrillo's ad-blocking subscription for Colombian sites
 ! Home:    http://code.google.com/p/adblock-colombia/
 ! License: http://www.gnu.org/licenses/gpl.html
 ! Contact: http://code.google.com/p/adblock-colombia/issues/list
+! Version: $Id$
 !
 /pauta/*
 #div(class*=publicidad)
