@@ -18,6 +18,7 @@ latarde.com#div(id^=headerPub)
 wradio.com.co#div(class*=publi)
 wradio.com.co##div[class=redo][style*="width: "]
 mercadolibre.com.co#div(id^=adscolumn)
+cdn.elespectador.co/files/*.jpg
 ! 
 ! MALICIOUS:
 
