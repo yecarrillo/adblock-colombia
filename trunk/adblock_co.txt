@@ -11,6 +11,7 @@
 mercadolibre.com.co#div(id=oasTOP)
 elespectador.com#div(class*=pauta)
 elespectador.com#div(class*=patrocinio)
+elespectador.com/files/tomas/*.jpg
 eltiempo.com#div(class*=patrocinador)
 eltiempo.com#div(class*=Patrocinio)
 eltiempo.com#div(class*=Pauta)
