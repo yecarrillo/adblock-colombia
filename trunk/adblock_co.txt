@@ -27,4 +27,4 @@ cdn.elespectador.co/files/*.jpg
 ! 
 ! WHITELISTS
 @@.gov.co/*banners/
-@@.4-72.com.co
+@@|http://www.4-72.com.co
