@@ -21,6 +21,8 @@ mercadolibre.com.co#div(class*=mclics)
 www.portafolio.co#div(class*=subscribe-board)
 www.laopinion.com.co#div(class*=pauta)
 www.laopinion.com.co#div(class*=pautas_header)
+www.laopinion.com.co#div(class*=patrocinio)
+www.elcolombiano.com/#div(id^=tiquetesMasBaratos)
 cdn.elespectador.co/files/*.jpg
 www.elfrente.com.co/web/imagenes/BANNER*.png
 ! 
