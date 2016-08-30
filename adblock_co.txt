@@ -13,15 +13,11 @@ elespectador.com#div(class*=pauta)
 elespectador.com#div(class*=patrocinio)
 elespectador.com#div(class*=booking-losticketesmasbaratos)
 elespectador.com#div(class*=dfp_google)
-elespectador.com/files/tomas/*.jpg
-eltiempo.com#div(class*=patrocinador)
-eltiempo.com#div(class*=Patrocinio)
-eltiempo.com#div(class*=Pauta)
-eluniversal.com.co#div(class*=banner_)
-latarde.com#div(id^=headerPub)
+eluniversal.com.codiv(id^=publicidad_superior)
+vanguardia.com#div(class*=codigos)
+vanguardia.com#div(id^=enlacesadicionales)
 wradio.com.co#div(class*=publi)
-wradio.com.co##div[class=redo][style*="width: "]
-mercadolibre.com.co#div(id^=adscolumn)
+mercadolibre.com.co#div(class*=mclics)
 cdn.elespectador.co/files/*.jpg
 ! 
 ! MALICIOUS:
