@@ -11,6 +11,8 @@
 mercadolibre.com.co#div(id=oasTOP)
 elespectador.com#div(class*=pauta)
 elespectador.com#div(class*=patrocinio)
+elespectador.com#div(class*=booking-losticketesmasbaratos)
+elespectador.com#div(class*=dfp_google)
 elespectador.com/files/tomas/*.jpg
 eltiempo.com#div(class*=patrocinador)
 eltiempo.com#div(class*=Patrocinio)
