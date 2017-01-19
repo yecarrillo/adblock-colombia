@@ -26,6 +26,8 @@ www.elcolombiano.com/#div(id^=tiquetesMasBaratos)
 www.elcolombiano.com#div(class*=carrusel_comercial)
 cdn.elespectador.co/files/*.jpg
 www.elfrente.com.co/web/imagenes/BANNER*.png
+semana.com#div(id^=AdBlockContentModal)
+semana.com#div(class*=reveal-modal-bg)
 ! 
 ! MALICIOUS:
 
