@@ -18,6 +18,8 @@ www.flightradar24.com##.premium-attract
 www.flightradar24.com##.app-store-badges
 www.flightradar24.com##.remove-ads-link
 www.flightradar24.com##.showall-msg.notify-msg
+www.makeuseof.com##.unblockplease-overlay
+www.makeuseof.com##.unblockplease
 ! 
 ! MALICIOUS:
 
