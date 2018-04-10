@@ -35,6 +35,7 @@ semana.com#div(class*=reveal-modal-bg)
 semana.com/Scripts/Site/Site.js
 seg.eltiempo.com
 elheraldo.co##adblock-mensaje
+rcnradio.com##.ads-alert-video
 
 ! 
 ! MALICIOUS:
