@@ -15,7 +15,8 @@ elespectador.com#div(class*=booking-losticketesmasbaratos)
 elespectador.com#div(class*=dfp_google)
 elespectador.com#div(class*=checkout)
 elespectador.com#div(id^=checkout-container)
-elespectador.com#div(id^=tp-modal)
+elespectador.com##.tp-modal
+elespectador.com##.tp-active.tp-backdrop
 tinypass.com
 eluniversal.com.co#div(id^=publicidad_superior)
 vanguardia.com#div(class*=codigos)
