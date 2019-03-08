@@ -20,6 +20,9 @@ www.flightradar24.com##.remove-ads-link
 www.flightradar24.com##.showall-msg.notify-msg
 www.makeuseof.com##.unblockplease-overlay
 www.makeuseof.com##.unblockplease
+es.flightaware.com###blockerDisclaimerContainer
+www.nacion.com###metered_overlay
+www.nacion.com##.g-overlay
 ! 
 ! MALICIOUS:
 
