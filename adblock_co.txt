@@ -45,3 +45,5 @@ rcnradio.com##.ads-alert-video
 ! WHITELISTS
 @@.gov.co/*banners/
 @@|http://www.4-72.com.co
+deprisa.com
+
