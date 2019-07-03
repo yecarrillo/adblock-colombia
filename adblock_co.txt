@@ -8,6 +8,8 @@
 !
 /pauta/*
 #div(class*=publicidad)
+###lblBannerMeteredCollapsibleToggle
+##.backgroundBannerMetered
 mercadolibre.com.co#div(id=oasTOP)
 elespectador.com#div(class*=pauta)
 elespectador.com#div(class*=patrocinio)
