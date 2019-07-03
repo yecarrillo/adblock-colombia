@@ -7,11 +7,13 @@
 ! Version: $Id$
 !
 /pauta/*
-#div(class*=publicidad)
+##.publicidad
 tinypass.com
 elfrente.com.co/web/imagenes/BANNER*.png
+semana.com,dinero.com###divContentBannerMeteredPaywall
 semana.com,dinero.com###lblBannerMeteredCollapsibleToggle
 semana.com,dinero.com##.backgroundBannerMetered
+semana.com,dinero.com##.publicidad
 seg.eltiempo.com
 rcnradio.com###videoAdsAlert
 hsbnoticias.com##div[id*="tv-miniwidget"]
