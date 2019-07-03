@@ -8,37 +8,19 @@
 !
 /pauta/*
 #div(class*=publicidad)
-###lblBannerMeteredCollapsibleToggle
-##.backgroundBannerMetered
-mercadolibre.com.co#div(id=oasTOP)
-elespectador.com#div(class*=pauta)
-elespectador.com#div(class*=patrocinio)
-elespectador.com#div(class*=booking-losticketesmasbaratos)
-elespectador.com#div(class*=dfp_google)
-elespectador.com#div(class*=checkout)
-elespectador.com#div(id^=checkout-container)
-elespectador.com##.tp-modal
-elespectador.com##.tp-active.tp-backdrop
 tinypass.com
-eluniversal.com.co#div(id^=publicidad_superior)
-vanguardia.com#div(class*=codigos)
-vanguardia.com#div(id^=enlacesadicionales)
-wradio.com.co#div(class*=publi)
-mercadolibre.com.co#div(class*=mclics)
-www.portafolio.co#div(class*=subscribe-board)
-www.laopinion.com.co#div(class*=pauta)
-www.laopinion.com.co#div(class*=pautas_header)
-www.laopinion.com.co#div(class*=patrocinio)
-www.elcolombiano.com/#div(id^=tiquetesMasBaratos)
-www.elcolombiano.com#div(class*=carrusel_comercial)
-cdn.elespectador.co/files/*.jpg
-www.elfrente.com.co/web/imagenes/BANNER*.png
-semana.com#div(id^=AdBlockContentModal)
-semana.com#div(class*=reveal-modal-bg)
-semana.com/Scripts/Site/Site.js
+elfrente.com.co/web/imagenes/BANNER*.png
+semana.com,dinero.com###lblBannerMeteredCollapsibleToggle
+semana.com,dinero.com##.backgroundBannerMetered
 seg.eltiempo.com
-elheraldo.co##adblock-mensaje
-rcnradio.com##.ads-alert-video
+rcnradio.com###videoAdsAlert
+hsbnoticias.com##div[id*="tv-miniwidget"]
+hsbnoticias.com##.node-advertisement
+
+! 
+! COOKIES POLICY
+elheraldo.co###cookie-politicas
+caracoltv.com##.cookies-acceptance
 
 ! 
 ! MALICIOUS:
@@ -48,4 +30,5 @@ rcnradio.com##.ads-alert-video
 @@.gov.co/*banners/
 @@|http://www.4-72.com.co
 @@|deprisa.com
+@@/Scripts/ads.js$script,~third-party,domain=semana.com|dinero.com|soho.co|fucsia.co
 
