@@ -33,11 +33,16 @@ noticias.caracoltv.com###push-notification-block
 registro.pse.com.co###divPolicyChange
 www.locatelcolombia.com##.backgroundCover
 www.falabella.com.co##.overlay
+www.elespectador.com##.tp-modal
+www.elespectador.com##.tp-active.tp-backdrop
+www.eltiempo.com###tooltip-personalizacion-up
+www.eltiempo.com##.visible.barra-aviso-privacidad
 
 ! 
 ! COOKIES POLICY
 elheraldo.co###cookie-politicas
 caracoltv.com##.cookies-acceptance
+noticias.caracoltv.com##.PoliciesBanner
 
 ! 
 ! MALICIOUS:
